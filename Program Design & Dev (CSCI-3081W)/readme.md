@@ -1,4 +1,4 @@
 # Intro
-This directory is for Robot Simulator project (based on C++ language). The program was built in winter 2017. More data will be transferred from my UMN github account in future.
+This directory is for Robot Simulator project (based on C++ language). The program was built in second half of 2017. 
 
-What I have in my laptop is UML design graph now. *To be continuted*
+What I have in this repo is UML design graph. Other source codes are ready to upload. The escapsulated version might be deployed on other flatform. *To be continuted*
